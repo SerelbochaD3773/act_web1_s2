@@ -13,4 +13,4 @@ if (cantidad <= 10) {
 
 
 }
-console.log(precioFinal);
+console.log(`El precio final es: ${precioFinal.toFixed(2)}`);
